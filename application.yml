@@ -7,7 +7,7 @@ logging:
   level:
     jndi: ${LOGGING_LEVEL_:INFO}
 
-  path: ${LOGGING_PATH:${user.home}/data/oss-todomvc-gateway/logs}
+  path: ${LOGGING_PATH:${user.home}/.oss/oss-todomvc-gateway/logs}
 
 app:
   type: RESTFUL
