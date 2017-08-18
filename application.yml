@@ -1,4 +1,4 @@
-# todomvc-gateway-config
+# oss-todomvc-gateway-config
 
 #logging.level.: ${LOGGING_LEVEL_:INFO}
 logging:
